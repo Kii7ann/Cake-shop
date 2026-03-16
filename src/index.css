@@ -1,0 +1,195 @@
+* {
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.swiper {
+  width: 100%;
+  max-width: 420px;
+  overflow: hidden;
+}
+
+.ftext {
+  font-size: clamp(24px, 3vw, 35px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.ftext2 {
+  font-size: clamp(16px, 2vw, 20px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.ftext3 {
+  font-size: clamp(30px, 5vw, 50px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.ftext4 {
+  font-size: clamp(12px, 1.5vw, 15px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.icons {
+  font-size: 30px;
+}
+
+.lcolor {
+  color: palevioletred;
+  transition: 0.3s;
+}
+
+.lcolor:hover {
+  color: pink;
+  transform: scale(1.1);
+}
+
+.navlcolor {
+  font-size: 20px;
+  color: palevioletred;
+  text-decoration: none;
+  font-family: fantasy;
+  transition: 0.3s;
+}
+
+.navlcolor:hover {
+  color: pink;
+  transform: scale(1.1);
+}
+
+.abtext {
+  font-size: clamp(50px, 9vw, 150px);
+  font-family: fantasy;
+  color: palevioletred;
+  line-height: 1.1;
+  word-break: break-word;
+}
+
+.abtext2 {
+  font-size: clamp(18px, 3vw, 30px);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: grey;
+}
+
+.abtext3 {
+  font-size: clamp(40px, 8vw, 100px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.abtext4 {
+  font-size: clamp(16px, 2vw, 20px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.abtext5 {
+  font-size: clamp(18px, 3vw, 25px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.abtext6 {
+  font-size: clamp(18px, 2.5vw, 24px);
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+.product-title {
+  font-size: 24px;
+  font-family: fantasy;
+  color: palevioletred;
+}
+
+#massage {
+  height: 100px;
+}
+
+.context {
+  padding: 5px;
+  border: 2px solid palevioletred;
+  border-radius: 50%;
+  background-color: palevioletred;
+  color: white;
+  transition: 0.3s;
+}
+
+.context:hover {
+  border: 2px solid pink;
+  background-color: pink;
+  color: white;
+}
+
+.home-img {
+  height: 120px;
+  border-radius: 50%;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+.slider-img {
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.cart-btn {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  font-family: fantasy;
+  color: white;
+  width: 25%;
+  background-color: palevioletred;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.cart-btn:hover {
+  background-color: pink;
+  color: palevioletred;
+}
+
+.incdec-btn {
+  padding: 8px;
+  border: none;
+  border-radius: 4px;
+  font-family: fantasy;
+  color: white;
+  width: 50px;
+  background-color: palevioletred;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.incdec-btn:hover {
+  background-color: pink;
+  color: palevioletred;
+}
+
+.custom-toast {
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.custom-progress {
+  background: palevioletred !important;
+  height: 5px !important;
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "id": "0",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-04-free-img.jpg",
+        "price": "349",
+        "cake": "Fruit Tart",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "1",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-10-free-img.jpg",
+        "price": "449",
+        "cake": "Strawberry Tart",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "2",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-06-free-img.jpg",
+        "price": "549",
+        "cake": "Cherry Tart",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "3",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-07-free-img.jpg",
+        "price": "249",
+        "cake": "Butter Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "4",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-08-free-img.jpg",
+        "price": "399",
+        "cake": "Chocolate Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "5",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-09-free-img.jpg",
+        "price": "449",
+        "cake": "Biscuit Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "6",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-05-free-img.jpg",
+        "price": "299",
+        "cake": "Orange Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "7",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-11-free-img.jpg",
+        "price": "459",
+        "cake": "Crumb Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "id": "8",
+        "image": "https://websitedemos.net/cake-shop-04/wp-content/uploads/sites/537/2020/03/product-12-free-img.jpg",
+        "price": "349",
+        "cake": "Cherry Cake",
+        "cake_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+]
