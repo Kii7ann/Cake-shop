@@ -19,7 +19,7 @@ const App = () => {
             <ul className='navbar-nav mb-2 mb-lg-0 d-flex flex-wrap gap-3 justify-content-center'>
               <li className='nav-item'><Link to='/' className='navlcolor'>Home</Link></li>
               <li className='nav-item'><Link to='/about' className='navlcolor'>About</Link></li>
-              <li className='nav-item'><Link to='/cakes' className='navlcolor'>Cakes</Link></li>
+              <li className='nav-item'><Link to='/cakes' className='navlcolor'>cakes</Link></li>
               <li className='nav-item'><Link to='/contect' className='navlcolor'>Contact</Link></li>
               <li className='nav-item'><Link to='/cart' className='navlcolor'><i className="fa-solid fa-cart-shopping"></i></Link></li>
             </ul>
